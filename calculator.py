@@ -20,4 +20,5 @@ else:
 
 print("Result:", result)
 
-# This is a sample comment
+# This is a sample comment.
+# This is the second line
